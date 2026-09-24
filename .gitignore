@@ -1,0 +1,9 @@
+# Keys and local settings never go in the repo
+.env
+.env.*
+*.key
+
+# Notebook and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
