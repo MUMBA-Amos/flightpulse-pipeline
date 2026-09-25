@@ -63,3 +63,7 @@ Runs on Databricks (Free Edition works) with Unity Catalog tables in `workspace.
 ## Data sources
 
 [OpenSky Network](https://opensky-network.org) (aircraft positions; free data for non-commercial use), [Aviationstack](https://aviationstack.com) (flights and delays; free plan) and the [Aviation Weather Center](https://aviationweather.gov) (METAR weather).
+
+## License
+
+The code is released under the [MIT License](LICENSE). The flight, aircraft and weather data it collects belongs to its sources and follows their terms.
